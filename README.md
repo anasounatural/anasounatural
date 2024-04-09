@@ -1,5 +1,5 @@
 ### Oi, pessoal!
-<p>Sou Desenvolvedora Web Jr.Certificada pela Laboratória.</p>
+<p>Sou Desenvolvedora Web Jr. Certificada pela Laboratória.</p>
 <p>Html - Java Script - CSS.</p>
 <p>Curiosa para conhecer tudo, sempre e mais sobre tecnologia!</p>
 <a href="linkedin.com/in/anasou/">Meu Linkedin</a>
