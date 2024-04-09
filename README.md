@@ -4,13 +4,14 @@
 <p>Curiosa para conhecer tudo, sempre e mais sobre tecnologia!</p>
 <a href="linkedin.com/in/anasou/">Meu Linkedin</a>
 
-<! --
-<p>Meu interesse por comportamento humano ampliou no Mestrado, onde dissertei sobre a influência das Novas Tecnologias no comportamento. Hoje, se manifesta na programação, quando busco as melhores soluções para experiência do usuário e nas minhas aulas de yoga incentivando mudança de comportamentos contra producentes. Yoga também é minha aliada para o foco e paciência que a programação exige. No Bootcamp Laboratória, dei os primeiros passos para desenvolver interfaces de projetos web, com uso de tecnologias como JavaScript, HTML, CSS. Utilizando metodologia ágil Scrum.</p>
-  -->
 
 
 
 <!--
+
+<p>Meu interesse por comportamento humano ampliou no Mestrado, onde dissertei sobre a influência das Novas Tecnologias no comportamento. Hoje, se manifesta na programação, quando busco as melhores soluções para experiência do usuário e nas minhas aulas de yoga incentivando mudança de comportamentos contra producentes. Yoga também é minha aliada para o foco e paciência que a programação exige. No Bootcamp Laboratória, dei os primeiros passos para desenvolver interfaces de projetos web, com uso de tecnologias como JavaScript, HTML, CSS. Utilizando metodologia ágil Scrum.</p>
+
+
 **anasounatural/anasounatural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
