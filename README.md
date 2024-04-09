@@ -3,7 +3,8 @@
 <p>Html - Java Script - CSS.</p>
 <p>Certificada pelo Laboratória.</p>
 <p>Curiosa para conhecer tudo, sempre e mais sobre tecnologia!</p>
-[Texto do link](linkedin.com/in/anasou/)
+<a href="linkedin.com/in/anasou/">Meu Linkedin</a>
+
 <!--
 **anasounatural/anasounatural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
